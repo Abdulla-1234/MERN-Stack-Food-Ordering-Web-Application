@@ -1,6 +1,6 @@
 # MERN-Stack-Food-Ordering-Web-Application
 
-![Food Ordering App](https://your-image-url.com) *(Add a relevant banner image here)*
+![MERN Stack Food Ordering Web Application](https://github.com/user-attachments/assets/cfbd245a-911c-4223-9596-74eabe0f3e3e)
 
 ## Overview
 This is a **full-stack food ordering web application** built using the **MERN (MongoDB, Express.js, React.js, Node.js) stack**. The platform allows users to browse a variety of food items, place orders, manage their cart, and make payments. Admins can manage the menu, track orders, and view user activities.
@@ -74,7 +74,8 @@ npm start
 
 ## Project Structure
 ```
-📂 MERN-Stack-Food-Ordering-Web-Application  
+📂 MERN-Stack-Food-Ordering-Web-Application
+ ├── 📂 admin
  ├── 📂 backend        # Express.js API  
  ├── 📂 frontend       # React.js Frontend  
  ├── 📄 .env           # Environment Variables  
@@ -106,15 +107,3 @@ We welcome contributions! If you’d like to improve this project, follow these 
 3. **Commit your changes:** `git commit -m "Add new feature"`  
 4. **Push to the branch:** `git push origin feature-branch`  
 5. **Create a Pull Request**  
-
----
-
-## License
-This project is licensed under the **MIT License**.  
-
----
-
-## Contact
-📧 **Email:** your-email@example.com  
-🔗 **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/mohammad-abdulla-doodakula)  
-🚀 **Portfolio:** [Your Portfolio](https://rad-khapse-d3828b.netlify.app/)  
