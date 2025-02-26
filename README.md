@@ -95,11 +95,6 @@ npm start
 
 ---
 
-## Screenshots
-*(Add UI screenshots here for better visualization)*  
-
----
-
 ## Contributing
 We welcome contributions! If you’d like to improve this project, follow these steps:  
 1. **Fork the repository**  
